@@ -16,8 +16,3 @@ Building tools that keep codebases clean, reliable, and fast.
 - **LinkedIn:** https://www.linkedin.com/in/ram-krishnan/
 - **Blog:** https://beyondthecode.medium.com
 
----
-
-## Focus
-Minimal design. Strong DX. High performance.  
-Zero noise.
